@@ -1,8 +1,3 @@
 # hello-world
 #
-# Skeleton file for the Python "Hello World" exercise.
-#
-
-
-def hello(name='World'):
-    return 'Hello, ' + name + '!'
+###############################This was only for the readme LOL#######################################
